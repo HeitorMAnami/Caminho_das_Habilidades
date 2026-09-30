@@ -8,9 +8,15 @@
 body{
     background-color:rgb(44, 44, 44);
     
+
+    display: flex;
+    align-items: center;
+    padding:20px;
+
 }
 
 .container{
     width: 100%;
     max-width: 650px;
+    background-color:azure;
 }
